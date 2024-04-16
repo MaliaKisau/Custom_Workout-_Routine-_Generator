@@ -3,6 +3,6 @@ This Python code is designed to help gym-goers create and manage custom workout 
 
 ## Features
 
-	•	Custom Routines: Create personalized workout routines tailored to your fitness goals.
-	•	Flexible Input: Easily add exercises with varying sets and reps.
-	•	Display Routine: View your complete workout plan at any time.
+•	Custom Routines: Create personalized workout routines tailored to your fitness goals.
+•	Flexible Input: Easily add exercises with varying sets and reps.
+•	Display Routine: View your complete workout plan at any time.
